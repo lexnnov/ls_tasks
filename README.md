@@ -1,4 +1,4 @@
-# tasks
+# LS Tasks
 
 > Nuxt.js project
 
