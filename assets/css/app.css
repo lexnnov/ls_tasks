@@ -1,0 +1,10 @@
+.primary {
+  color: red;
+  background-color: red;
+}
+.success {
+  background-color: #1798ff !important
+}
+.warning{
+  background-color: #ff5252 !important
+}
